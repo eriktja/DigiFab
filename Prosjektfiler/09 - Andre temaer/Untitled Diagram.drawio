@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T11:20:25.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OgnL_wuqkl2eCuVsQENp" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T09:35:20.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="5TXr7znAfnMY-4Eocn_9" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--15" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--13" vertex="1">
           <mxGeometry y="80" width="240" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="UbwVnPbUsHnalXRMT-86-2" value="+ getEffectiveTemp() : int&lt;br&gt;+ setEffectiveTemp(int effectiveTemp) : void&lt;br&gt;+ getKmRadius() : double&lt;br&gt;+ getKgMass() : double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--13">
+        <mxCell id="UbwVnPbUsHnalXRMT-86-2" value="+ getEffectiveTemp() : int&lt;br&gt;+ setEffectiveTemp(int effectiveTemp) : void&lt;br&gt;+ getKmRadius() : double&lt;br&gt;+ getKgMass() : double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zkfFHV4jXpPFQw0GAbJ--13" vertex="1">
           <mxGeometry y="90" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--16" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" target="zkfFHV4jXpPFQw0GAbJ--0" edge="1">
@@ -92,10 +92,10 @@
         <mxCell id="B26k-guTPONRlMNO3YMh-22" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="B26k-guTPONRlMNO3YMh-19" vertex="1">
           <mxGeometry y="90" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="UbwVnPbUsHnalXRMT-86-1" value="+ getMEarth() : double&lt;br&gt;+ getREarth() : double&lt;br&gt;+ getKmRadius() : double&lt;br&gt;+ getKgMass() : double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="B26k-guTPONRlMNO3YMh-19">
+        <mxCell id="UbwVnPbUsHnalXRMT-86-1" value="+ getMEarth() : double&lt;br&gt;+ getREarth() : double&lt;br&gt;+ getKmRadius() : double&lt;br&gt;+ getKgMass() : double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="B26k-guTPONRlMNO3YMh-19" vertex="1">
           <mxGeometry y="100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UbwVnPbUsHnalXRMT-86-0" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UbwVnPbUsHnalXRMT-86-0" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="780" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
